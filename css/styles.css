@@ -11,6 +11,8 @@
 html {
     font-size: 62.5%;
     box-sizing: border-box;
+    /*tipo velocidad / se realiza de arriba a abajo*/
+    scroll-snap-type: y mandatory;
 }
 
 body {
